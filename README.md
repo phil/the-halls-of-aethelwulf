@@ -15,3 +15,6 @@ Style: Vanilla Doom2, collect the keys, kill the bad guys, no jumping, free-look
 Tested on GZdoom. This is a large and dark map, I’m using “Legacy” rendering on GZDoom, but “Standard” also works well, any other option, and it might be too dark to see what you’re doing.
 
 I think there’s plenty of Ammo and Health, but any feedback on adding/removing any more would be appreciated, as well as feed back on the traps and monster closets.
+
+
+https://www.doomworld.com/forum/topic/119397-new-doom-ii-map-the-halls-of-aethelwulf/
